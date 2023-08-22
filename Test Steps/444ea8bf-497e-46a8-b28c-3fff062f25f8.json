@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_product_chekhol-rozovyi",
+        "step 2: At Page_product_chekhol-rozovyi click on button_object",
+        "step 3: At Page_product_chekhol-rozovyi click on hyperlink_cart --> navigate to Page_cart",
+        "step 4: At Page_cart click on hyperlink_cart",
+        "step 5: At Page_cart click on hyperlink_ --> navigate to Page_home",
+        "step 6: At Page_home click on hyperlink_category_podborki --> navigate to Page_category_podborki",
+        "step 7: Add visual checkpoint at Page_category_podborki"
+    ]
+}
